@@ -64,17 +64,17 @@ void board()
 
     //drawing the board
     cout << "     |      |     " << endl;
-    cout << " " << square[1] << "  |  " << square[2] << "  |  " << square[3] << endl;
+    cout << " " << square[1] << " | " << square[2] << " | " << square[3] << endl;
 
     cout << "_____|______|_____" << endl;
     cout << "     |      |     " << endl;
 
-    cout << " " << square[4] << "  |  " << square[5] << "  |  " << square[6] << endl;
+    cout << " " << square[4] << " | " << square[5] << " | " << square[6] << endl;
 
     cout << "_____|______|_____" << endl;
     cout << "     |      |     " << endl;
 
-    cout << " " << square[7] << "  |  " << square[8] << "  |  " << square[9] << endl;
+    cout << " " << square[7] << " | " << square[8] << " | " << square[9] << endl;
 
     cout << "     |      |     " << endl;
 }
